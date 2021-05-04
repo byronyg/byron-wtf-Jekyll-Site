@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    no-style-please (0.4.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  universal-darwin-20
+
+DEPENDENCIES
+  no-style-please!
+
+BUNDLED WITH
+   2.2.16
